@@ -14,14 +14,24 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="<iframe src="https://giphy.com/embed/5k5vZwRFZR5aZeniqb" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb">via GIPHY</a></p>" width = 300px></picture>
+<table style="width: 100%;">
+  <tr>
+    <td style="vertical-align: top; width: 70%;">
+      <p>:school: I am a PhD Student at <a href="https://www.uned.es/universidad/inicio/">https://www.uned.es/universidad/inicio/</a></p>
+      <p>:technologist: <strong>Currently working on</strong> <code>Computer Vision</code> <strong>&</strong> <code>Data Science</code></p>
+      <p>:boom: You can visit <a href="https://phyum.uned.es/">MY WEBSITE</a> for more info</p>
+      <p>:email: Feel free to <strong>reach me out</strong> <a href="mailto:eliochiu2@gmail.com"><img src="https://img.shields.io/static/v1?label=email&message=ElioChiu&color=EA4335&style=flat-square"></a></p>
+    </td>
+    <td style="vertical-align: top; width: 30%;">
+      <picture>
+        <img src="https://media.giphy.com/media/8hYQgBIIHkCPjRTmai/giphy.gif?cid=790b7611ceqhuc6jjl85weehe2oq7jn4t6y1zfze1qcf4tph&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" width="300px">
+      </picture>
+    </td>
+  </tr>
+</table>
 
-- :school: I am a PhD Student at https://www.uned.es/universidad/inicio/ 
-- :technologist: **Currently working on** `Computer Vision` **&** `Data Science`
-- :boom: You can visit [MY WEBSITE](https://phyum.uned.es/) for more info
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
 
-<br>
+
 
 ## 🛠️ My Skills
 
