@@ -14,7 +14,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="<iframe src="https://giphy.com/embed/5k5vZwRFZR5aZeniqb" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb">via GIPHY</a></p>" width = 300px></picture>
 
 - :school: I am a PhD Student at https://www.uned.es/universidad/inicio/ 
 - :technologist: **Currently working on** `Computer Vision` **&** `Data Science`
