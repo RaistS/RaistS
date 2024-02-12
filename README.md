@@ -1,31 +1,31 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-
+<!-- Saludo con h1 sin borde inferior -->
 <div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Jon</h1></summary>
-  </ul>
+  <h1>Hi there👋, I'm Jon</h1>
 </div>
 
+<!-- Divisor horizontal con gradiente -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%;">
 
-<!--About Me-->
+<!-- Sobre mí con icono animado -->
+<h2>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px" alt="About me icon"> About me
+</h2>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-
+<!-- Contenido Sobre mí -->
 <table style="width: 100%;">
   <tr>
+    <!-- Texto Sobre mí -->
     <td style="vertical-align: top; width: 70%;">
-      <p>:school: I am a PhD Student at <a href="https://www.uned.es/universidad/inicio/">https://www.uned.es/universidad/inicio/</a></p>
-      <p>:technologist: <strong>Currently working on</strong> <code>Computer Vision</code> <strong>&</strong> <code>Data Science</code></p>
-      <p>:boom: You can visit <a href="https://phyum.uned.es/">MY WEBSITE</a> for more info</p>
-      <p>:email: Feel free to <strong>reach me out</strong> <a href="mailto:eliochiu2@gmail.com"><img src="https://img.shields.io/static/v1?label=email&message=ElioChiu&color=EA4335&style=flat-square"></a></p>
+      <p>:school: I am a PhD Student at <a href="https://www.uned.es/universidad/inicio/">UNED</a></p>
+      <p>:technologist: <strong>Currently working on</strong> <code>Computer Vision</code> and <code>Data Science</code></p>
+      <p>:boom: You can visit <a href="https://www.linkedin.com/in/jon-etxeberria-san-millan-81aa71122/">my LinkedIn</a> for more info</p>
+      <p>:email: Feel free to <strong>reach me out</strong> <a href="mailto:jecheverria@dia.uned.es"><img src="https://img.shields.io/static/v1?label=email&message=Jon&color=EA4335&style=flat-square"></a></p>
+      <p>:book: <strong>Latest Publication:</strong> <a href="https://www.mdpi.com/1424-8220/21/24/8378">"Title of Your Article"</a> in <em>Sensors</em> journal</p>
+      <p>:dart: <strong>Specialization:</strong> Focused on machine learning algorithms for image recognition and data analytics in large datasets</p>
     </td>
+    <!-- Imagen GIF -->
     <td style="vertical-align: top; width: 30%;">
-      <picture>
-        <img src="https://media.giphy.com/media/8hYQgBIIHkCPjRTmai/giphy.gif?cid=790b7611ceqhuc6jjl85weehe2oq7jn4t6y1zfze1qcf4tph&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" width="300px">
-      </picture>
+      <img src="https://media.giphy.com/media/8hYQgBIIHkCPjRTmai/giphy.gif?cid=790b7611ceqhuc6jjl85weehe2oq7jn4t6y1zfze1qcf4tph&rid=giphy.gif&ct=g" alt="GIF" width="300px">
     </td>
   </tr>
 </table>
