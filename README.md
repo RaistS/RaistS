@@ -25,9 +25,9 @@
       <p>📚 <strong>Latest Publication:</strong> <a href="https://www.mdpi.com/1424-8220/21/24/8378">"Toward modeling psychomotor performance in karate combats using computer vision pose estimation"</a> in the journal <em>Sensors</em></p>
       <p>🎯 <strong>Specialization:</strong> Focused on machine learning algorithms for image recognition and data analytics in large datasets</p>
     </td>
-    <!-- Animated GIF related to Computer Vision -->
+    <!-- New Computer Vision image from Unsplash -->
     <td style="vertical-align: top; width: 30%;">
-      <img src="https://c.tenor.com/2GN2S1rCddEAAAAC/computer-vision.gif" alt="Computer Vision Animation" width="300px">
+      <img src="https://source.unsplash.com/featured/300x300/?computer,vision" alt="Computer Vision Image" width="300px">
     </td>
   </tr>
 </table>
@@ -58,7 +58,3 @@ Credits: [Jon](https://github.com/RaistS)
 
 Last Edited on: 16/02/2025
 
-
-Credits: [Jon](https://github.com/RaistS)
-
-Last Edited on: 16/02/2025
