@@ -23,6 +23,7 @@
         <img src="https://img.shields.io/static/v1?label=email&message=Jon&color=EA4335&style=flat-square" alt="Email">
       </a></p>
       <p>📚 <strong>Latest Publication:</strong> <a href="https://www.mdpi.com/1424-8220/21/24/8378">"Toward modeling psychomotor performance in karate combats using computer vision pose estimation"</a> in the journal <em>Sensors</em></p>
+      <p>🔏 <strong>Patent:</strong> <a href="https://patentscope.wipo.int/search/es/detail.jsf?docId=WO2022008768" target="_blank">View Patent Details</a></p>
       <p>🎯 <strong>Specialization:</strong> Focused on machine learning algorithms for image recognition and data analytics in large datasets</p>
     </td>
     <!-- Original Computer Vision image -->
