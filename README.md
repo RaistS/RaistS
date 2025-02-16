@@ -27,7 +27,7 @@
     </td>
     <!-- Animated GIF related to Computer Vision -->
     <td style="vertical-align: top; width: 30%;">
-      <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Computer Vision Animation" width="300px">
+      <img src="https://c.tenor.com/2GN2S1rCddEAAAAC/computer-vision.gif" alt="Computer Vision Animation" width="300px">
     </td>
   </tr>
 </table>
@@ -53,6 +53,11 @@
 <br/>
 
 ---
+
+Credits: [Jon](https://github.com/RaistS)
+
+Last Edited on: 16/02/2025
+
 
 Credits: [Jon](https://github.com/RaistS)
 
