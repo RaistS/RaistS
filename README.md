@@ -25,9 +25,9 @@
       <p>📚 <strong>Latest Publication:</strong> <a href="https://www.mdpi.com/1424-8220/21/24/8378">"Toward modeling psychomotor performance in karate combats using computer vision pose estimation"</a> in the journal <em>Sensors</em></p>
       <p>🎯 <strong>Specialization:</strong> Focused on machine learning algorithms for image recognition and data analytics in large datasets</p>
     </td>
-    <!-- Animated GIF -->
+    <!-- Animated GIF related to Computer Vision -->
     <td style="vertical-align: top; width: 30%;">
-      <img src="https://media.giphy.com/media/8hYQgBIIHkCPjRTmai/giphy.gif?cid=790b7611ceqhuc6jjl85weehe2oq7jn4t6y1zfze1qcf4tph&rid=giphy.gif&ct=g" alt="Animated GIF" width="300px">
+      <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Computer Vision Animation" width="300px">
     </td>
   </tr>
 </table>
